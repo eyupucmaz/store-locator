@@ -13,3 +13,10 @@ npm install
 ```bash
 npm start
 ```
+
+## App Images
+### Home Page
+![Home Page Image](https://github.com/eyupucmaz/store-locator/blob/master/assets/home-page.png?raw=true)
+
+### Add Store Page
+![Add Store Page Image](https://github.com/eyupucmaz/store-locator/blob/master/assets/add-page.png?raw=true)
